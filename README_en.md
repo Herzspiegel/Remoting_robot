@@ -42,13 +42,7 @@
 
   
 
-> **Note:** 
 
-In the Yahboom robot arm used in the Raspberry Pi development board pre-installed **Ubuntu 20.04LTS** operating system, 
-after power-on boot will execute a command similar to roscore to open the rosmaster and some other required processes, 
-here we just use the drive of the robot arm to complete the final control work, 
-remember to **use the kill command to close the rosmaster process after power-up**, 
-Make sure **there is only one rosmaster in the LAN** managing topic messages!
 
 
 
@@ -89,3 +83,10 @@ Make sure **there is only one rosmaster in the LAN** managing topic messages!
 
 - For more detailed information, please see **README .txt**
 
+> **Note:** 
+
+In the Yahboom robot arm used in the Raspberry Pi development board pre-installed **Ubuntu 20.04LTS** operating system, 
+after power-on boot will execute a command similar to roscore to open the rosmaster and some other required processes, 
+here we just use the drive of the robot arm to complete the final control work, 
+remember to **use the kill command to close the rosmaster process after power-up**, 
+Make sure **there is only one rosmaster in the LAN** managing topic messages!
