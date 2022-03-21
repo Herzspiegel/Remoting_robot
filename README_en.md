@@ -46,6 +46,7 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
   > then print i to INSERT:
 
   ```shell
+  source/opt/ros/kinetic/setup.bash
   export ROS_MASTER_URI=http://192.168.1.10:11311
   export ROS_HOSTNAME=192.168.1.10
   ```
@@ -53,7 +54,7 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
   > or directly input in CLI:(when the PLC can't use apt to get vim packet in cloud-Hub)
 
   ```shell
-  sudo echo 'export ROS_MASTER_URI=http://192.168.1.10:11311' >> ~/.bashrc && sudo echo 'export ROS_HOSTNAME=192.168.1.10' >> ~/.bashrc
+  sudo echo 'source/opt/ros/kinetic/setup.bash' >> ~/.bashrc && sudo echo 'export ROS_MASTER_URI=http://192.168.1.10:11311' >> ~/.bashrc && sudo echo 'export ROS_HOSTNAME=192.168.1.10' >> ~/.bashrc
   ```
 
   
