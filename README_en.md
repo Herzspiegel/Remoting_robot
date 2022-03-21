@@ -89,6 +89,9 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
   which got **a good low-latency effect**
 
 
+![mediapipe](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
+
+
 
 - We used a web program written in **javascript** to replace the original industrial camera's collection of gesture data. 
   In the robotic arm part, we use a relatively simple **python** program for data reception and control of the robotic arm
