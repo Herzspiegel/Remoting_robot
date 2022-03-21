@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<MovResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<General ID="1" SizeX="640" SizeY="480" MaxClientDocSizeX="0" MaxClientDocSizeY="0" MaxClientPacketSizeX="0" MaxClientPacketSizeY="0" WebClientQuality="100" XBackImage="0" YBackImage="0" CXBackImage="-1" CYBackImage="-1"/>
+<BackGround GradientFill="0" GradientColor="0" BackImageFile="" BkColor="16777215" TileBackground="0"/>
+<Style NonDestroyable="0" GlobalContainerName="0" FitInWindow="0" ShowSynopticBorder="1" StatObjBack="0" KeepAspectRatio="0" EnableScrollBars="1" ShowOnMDITabs="0" SynapsisVisibled="1" UseAntialiasing="0" NumColors="0"/>
+<Execution LayerVariable="" ExecuteSynapse="0" CyclicSynapseExecution="0" SynopticPublicSource="" SynopticStyleSource="" StyleSourceBackColor="0" SynMaxInst="1" EnableMultiTouch="0" EnableZoom="1" FastTimerFreq="50" SlowTimerFreq="500" MaxCounterFast="50" MaxCounterSlow="10" SeparateThread="0" VisibleObjectsManager="0" WaitExpressionsTime="0" ExclusiveWriteAccess="0" TimeDeferClosingWnd="5000"/>
+<ListSynopticDraw>
+<child>
+<object>base</object>
+<type x="140" y="70" width="-100" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Current Position</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="330" y="70" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">y</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="450" y="70" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">z</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="190" y="70" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">x</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="140" y="120" width="-100" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Gripper Status</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="270" y="120" width="-110" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="12" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">open/close</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+<Visible>0</Visible>
+<Transparency>0</Transparency>
+<BG>0</BG>
+<EG>0</EG>
+<MX>0</MX>
+<MY>0</MY>
+<Scale>0</Scale>
+<Rot>0</Rot>
+<SX>0</SX>
+<SY>0</SY>
+<EX>0</EX>
+<EY>0</EY>
+<FC>0</FC>
+<BList>0</BList>
+<LT Var="ROS_SentState" Format="" fmtvar="ROS_SentState">1</LT>
+<RCX>0</RCX>
+<RCY>0</RCY>
+<CM>0</CM>
+</child>
+<child>
+<object>Trend</object>
+<trend x="620" y="310" width="-590" height="-180" fill="none" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<pens>
+<pen>
+<name var="ROS_SentZ" scale="0" fmt="x" auto="1" stroke="rgb(245,51,248)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" hatch="hatch(3)" fill="rgb(4,143,93)">Z</name>
+<showmin stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showmin>
+<showmax stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showmax>
+<showav stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showav>
+</pen>
+<pen>
+<name var="ROS_SentY" scale="0" fmt="x" auto="1" stroke="rgb(224,68,224)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round" hatch="hatch(3)" fill="rgb(61,51,13)">Y</name>
+<showmin stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showmin>
+<showmax stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showmax>
+<showav stroke="rgb(255,0,0)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">0</showav>
+</pen>
+</pens>
+<borders trendarea="0" penarea="0" timearea="0">4</borders>
+<grid X="0" Y="0" xcol="12632256" ycol="12632256"/>
+<style time="0" xy="1" ttcol="8388608" ShowZoomBtn="0" ButtonSize="0" ButtonPos="3" PagePrevBtnText="" PrevBtnText="" PauseRunBtnText="" NextBtnText="" PageNextBtnText="" ExpandBtnText="" ZoomBtnText="" MeasureBtnText="" FirstPointBtnText="" LastPointBtnText="" NextPointBtnText="" PrevPointBtnText="" NoneBtnText="" AllBtnText="" SecBtnText="" MinBtnText="" HourBtnText="" DayBtnText="" WeekBtnText="" MonthBtnText="" YearBtnText="" PrintBtnText="">1</style>
+<execution samples="3600" recsec="5" recmsec="0"/>
+<variables/>
+<trendarea fill="rgb(0,0,0)"/>
+<penarea fill="none"/>
+<timearea fill="none"/>
+<legendarea fill="none"/>
+<persistance logger="Diagramm">0</persistance>
+<scalefont font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" XOffset="0" YOffset="0"/>
+<legendfont font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" XOffset="0" YOffset="0"/>
+<timefont font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" XOffset="0" YOffset="0"/>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="150" y="350" width="-110" height="-30" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="12" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Modeling</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Button</object>
+<type x="270" y="350" width="-70" height="-30" fill="none" stroke="rgb(245,245,245)" stroke-width="0" stroke-linecap="butt" stroke-linejoin="round">normal</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Border>0</Border>
+<Mechanic CheckVariable="ROS_Control" MechanicStyle="1" CentralZero="0" PushStyleEx3="81" PushStyleEx2="42" PushStyleEx="40" PushStyle="16" clickable="1" NumOptBtn="5" RadioCheckSize="0">1</Mechanic>
+<KeyCode VirtualKey="0" ShowKeyShortcut="1" EnableShortcut="0">0</KeyCode>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">AUTO</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="150" y="410" width="-110" height="-30" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="12" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Input</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="310" y="410" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">y</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="400" y="70" width="-70" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">y1</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+<Visible>0</Visible>
+<Transparency>0</Transparency>
+<BG>0</BG>
+<EG>0</EG>
+<MX>0</MX>
+<MY>0</MY>
+<Scale>0</Scale>
+<Rot>0</Rot>
+<SX>0</SX>
+<SY>0</SY>
+<EX>0</EX>
+<EY>0</EY>
+<FC>0</FC>
+<BList>0</BList>
+<LT Var="ROS_SentY" Format="" fmtvar="ROS_SentY">1</LT>
+<RCX>0</RCX>
+<RCY>0</RCY>
+<CM>0</CM>
+</child>
+<child>
+<object>base</object>
+<type x="420" y="410" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">z</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="200" y="410" width="-30" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">x</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="260" y="70" width="-70" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">x1</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+<Visible>0</Visible>
+<Transparency>0</Transparency>
+<BG>0</BG>
+<EG>0</EG>
+<MX>0</MX>
+<MY>0</MY>
+<Scale>0</Scale>
+<Rot>0</Rot>
+<SX>0</SX>
+<SY>0</SY>
+<EX>0</EX>
+<EY>0</EY>
+<FC>0</FC>
+<BList>0</BList>
+<LT Var="ROS_SentX" Format="" fmtvar="ROS_SentX">1</LT>
+<RCX>0</RCX>
+<RCY>0</RCY>
+<CM>0</CM>
+</child>
+<child>
+<object>Button</object>
+<type x="380" y="350" width="-70" height="-30" fill="none" stroke="rgb(245,245,245)" stroke-width="0" stroke-linecap="butt" stroke-linejoin="round">normal</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Border>0</Border>
+<Mechanic CheckVariable="ROS_Confirm" MechanicStyle="1" CentralZero="0" PushStyleEx3="81" PushStyleEx2="42" PushStyleEx="40" PushStyle="16" clickable="1" NumOptBtn="5" RadioCheckSize="0">1</Mechanic>
+<KeyCode VirtualKey="0" ShowKeyShortcut="1" EnableShortcut="0">0</KeyCode>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">CONFIRM</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="480" y="30" width="-320" height="-20" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="12" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Robot Movement Control </text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Edit</object>
+<editbox x="250" y="410" width="-50" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
+<style promptpad="1" fmtscale="x"/>
+<border>4</border>
+<execution var="ROS_GotX"/>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Edit</object>
+<editbox x="360" y="410" width="-50" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
+<style promptpad="1" fmtscale="x"/>
+<border>4</border>
+<execution var="ROS_GotY"/>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Edit</object>
+<editbox x="470" y="410" width="-50" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
+<style promptpad="1" fmtscale="x"/>
+<border>4</border>
+<execution var="ROS_GotZ"/>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="550" y="410" width="-50" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">Gripper</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Edit</object>
+<editbox x="600" y="410" width="-50" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
+<style promptpad="1" fmtscale="x"/>
+<border>4</border>
+<execution var="ROS_GotState"/>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>Edit</object>
+<editbox x="550" y="350" width="-50" height="-30" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
+<style fmtscale="x"/>
+<border>4</border>
+<execution var="ROS_Control"/>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0"/>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+</child>
+<child>
+<object>base</object>
+<type x="520" y="70" width="-70" height="-40" fill="syscolor(ϵͳɫ)" stroke="syscolor(�ı�ϵͳɫ)" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round">rect</type>
+<ExtFill Style="3" fill="syscolor(ϵͳɫ)">0</ExtFill>
+<Name AntialiasingFont="1" acr="4294901760"/>
+<text font-family="Tahoma" font-size="8" text-anchor="middle" font-weight="400" pf="34" f3D="0" XOffset="0" YOffset="0">z1</text>
+<Shadow>0</Shadow>
+<Rotation>0</Rotation>
+<Visible>0</Visible>
+<Transparency>0</Transparency>
+<BG>0</BG>
+<EG>0</EG>
+<MX>0</MX>
+<MY>0</MY>
+<Scale>0</Scale>
+<Rot>0</Rot>
+<SX>0</SX>
+<SY>0</SY>
+<EX>0</EX>
+<EY>0</EY>
+<FC>0</FC>
+<BList>0</BList>
+<LT Var="ROS_SentZ" Format="" fmtvar="ROS_SentZ">1</LT>
+<RCX>0</RCX>
+<RCY>0</RCY>
+<CM>0</CM>
+</child>
+</ListSynopticDraw>
+<VariableList/>
+</MovResource>
