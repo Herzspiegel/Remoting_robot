@@ -9,13 +9,13 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
 
 ​	The following equipment was prepared for this project:
 
-- [Controller - AXC F 3152 - 1069208]([PHOENIX CONTACT | Controller - AXC F 3152 - 1069208](https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1069208&library=usen&tab=1)) (produced by PHOENIX CONTACT)
+- Controller - AXC F 3152 - 1069208([PHOENIX CONTACT | Controller - AXC F 3152 - 1069208](https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1069208&library=usen&tab=1)) (produced by PHOENIX CONTACT)
 
-- [Yahboom DOFBOT Robotic Arm]([Yahboom DOFBOT AI Vision Robotic Arm with ROS Python programming for R](https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pi))
+- Yahboom DOFBOT Robotic Arm([Yahboom DOFBOT AI Vision Robotic Arm with ROS Python programming for R](https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pi))
 
 - Three CAT5E or CAT6 Ethernet network cables
 
-- PC，with an RJ45 Ethernet interface
+- PC，with an RJ45 Ethernet interface and a camera
 
 # **3. Running Project**
 
