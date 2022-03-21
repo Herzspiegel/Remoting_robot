@@ -1,3 +1,25 @@
+# **1. Project Introduction**
+
+We used the underlying technical framework of PLCNext from Phoenix. Based on this technology, we implemented the balina-engine (Docker) container software on the PLC and imported the official ROS image in the cloud repository. Ros is used to establish mutual communication between different nodes in the industrial LAN. Complete the exploration of the technical application of gesture recognition technology in the industrial field.
+
+
+# **2. Project Equipment**
+
+
+
+​	The following equipment was prepared for this project:
+
+- [Controller - AXC F 3152 - 1069208]([PHOENIX CONTACT | Controller - AXC F 3152 - 1069208](https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1069208&library=usen&tab=1)) (produced by PHOENIX CONTACT)
+
+- [Yahboom DOFBOT Robotic Arm]([Yahboom DOFBOT AI Vision Robotic Arm with ROS Python programming for R](https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pi))
+
+- Three CAT5E or CAT6 Ethernet network cables
+
+- PC，with an RJ45 Ethernet interface
+
+# **3. Running Project**
+
+
 ## Step 1. Set up the project environment
 
 - The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, and the login password is the initial password printed on the PLC.
