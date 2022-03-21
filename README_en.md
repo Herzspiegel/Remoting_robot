@@ -17,6 +17,8 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
 
 - PC，with an RJ45 Ethernet interface and a camera
 
+![AXC 3152](https://dam-mdc.phoenixcontact.com/rendition/156443151564/d8b2399820928046a0bfdad66783c48b/-FJPG-B408)
+
 # **3. Running Project**
 
 
