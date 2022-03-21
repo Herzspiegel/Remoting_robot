@@ -77,6 +77,7 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
   we had taken this project to participate in the 2021 Phoenix China Innovative Application Competition and won the first prize, 
   when we used a PLC control chip to calculate our palm coordinates. 
 
+![](https://tse1-mm.cn.bing.net/th/id/R-C.e41485ab211d5f9afb8580cd7ea40b83?rik=VsONYMS3voWi%2bw&riu=http%3a%2f%2fwww.yudongele.com.cn%2fUpLoadFile%2f20150522%2fca25098d-f3b1-4d72-9ea9-e052000bd0cc.jpg&ehk=UXI6ashnGxLkOAKKEE9KxDtJiVlOaosby0HCTcRdCzA%3d&risl=&pid=ImgRaw&r=0)
 
 
 - However, due to its lack of computing capability, 
