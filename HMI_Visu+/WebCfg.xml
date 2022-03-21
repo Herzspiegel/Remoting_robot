@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<WebSecCfg>
+<WCert>C:\ProgramData\Phoenix Contact\VisuPlus\cert\visuplusweb.der</WCert>
+<WKey>C:\ProgramData\Phoenix Contact\VisuPlus\private\visuplusweb.pem</WKey>
+<WHost>LAPTOP-3JQI4P0S</WHost>
+</WebSecCfg>

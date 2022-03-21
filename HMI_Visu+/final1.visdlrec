@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<DLAndRecipe>
+<DLRecipeList>
+<DLRecipe>
+<Name CRWFile="" printer="" Enabled="1" IsRecipe="0" EnableTimeFromTo="0" RecordOnTime="1" RecordOnVariable="0" RecordOnChange="0" RecordOnQualityGood="0" EnableDeadBand="0" DeadBandPercent="1" DeadBand="30" TimeRecHour="0" TimeRecMin="0" TimeRecSec="5" TimeRecMsec="0" EnableTimeFrom="2022-01-17T11:06:57Z" EnableTimeTo="2022-01-17T11:06:57Z">Log5sec</Name>
+<DSN TableName="" RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" User="" VarCharsMax="255" TimeCol="" LocalTimeCol="" MSecCol="" ReasonColName="" UserColName="" DurationDays="7" DurationHours="0" DurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="1" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<Variables Record="" Print="" Reset="" Status="" EnableTime=""/>
+</DLRecipe>
+<DLRecipe>
+<Name CRWFile="" printer="" Enabled="1" IsRecipe="0" EnableTimeFromTo="0" RecordOnTime="1" RecordOnVariable="0" RecordOnChange="0" RecordOnQualityGood="0" EnableDeadBand="0" DeadBandPercent="1" DeadBand="30" TimeRecHour="0" TimeRecMin="0" TimeRecSec="10" TimeRecMsec="0" EnableTimeFrom="2022-01-17T11:06:57Z" EnableTimeTo="2022-01-17T11:06:57Z">Log10sec</Name>
+<DSN TableName="" RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" User="" VarCharsMax="255" TimeCol="" LocalTimeCol="" MSecCol="" ReasonColName="" UserColName="" DurationDays="14" DurationHours="0" DurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="1" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<Variables Record="" Print="" Reset="" Status="" EnableTime=""/>
+</DLRecipe>
+<DLRecipe>
+<Name CRWFile="" printer="" Enabled="1" IsRecipe="0" EnableTimeFromTo="0" RecordOnTime="1" RecordOnVariable="0" RecordOnChange="0" RecordOnQualityGood="0" EnableDeadBand="0" DeadBandPercent="1" DeadBand="30" TimeRecHour="0" TimeRecMin="0" TimeRecSec="30" TimeRecMsec="0" EnableTimeFrom="2022-01-17T11:06:57Z" EnableTimeTo="2022-01-17T11:06:57Z">Log30sec</Name>
+<DSN TableName="" RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" User="" VarCharsMax="255" TimeCol="" LocalTimeCol="" MSecCol="" ReasonColName="" UserColName="" DurationDays="30" DurationHours="0" DurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="1" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<Variables Record="" Print="" Reset="" Status="" EnableTime=""/>
+</DLRecipe>
+<DLRecipe>
+<Name CRWFile="" printer="" Enabled="1" IsRecipe="0" EnableTimeFromTo="0" RecordOnTime="1" RecordOnVariable="0" RecordOnChange="0" RecordOnQualityGood="0" EnableDeadBand="0" DeadBandPercent="1" DeadBand="30" TimeRecHour="0" TimeRecMin="1" TimeRecSec="0" TimeRecMsec="0" EnableTimeFrom="2022-01-17T11:06:57Z" EnableTimeTo="2022-01-17T11:06:57Z">Log1min</Name>
+<DSN TableName="" RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" User="" VarCharsMax="255" TimeCol="" LocalTimeCol="" MSecCol="" ReasonColName="" UserColName="" DurationDays="60" DurationHours="0" DurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="1" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<Variables Record="" Print="" Reset="" Status="" EnableTime=""/>
+</DLRecipe>
+<DLRecipe>
+<Name CRWFile="" printer="" Enabled="1" IsRecipe="0" EnableTimeFromTo="0" RecordOnTime="1" RecordOnVariable="0" RecordOnChange="0" RecordOnQualityGood="0" EnableDeadBand="0" DeadBandPercent="1" DeadBand="30" TimeRecHour="0" TimeRecMin="10" TimeRecSec="0" TimeRecMsec="0" EnableTimeFrom="2022-01-17T11:06:57Z" EnableTimeTo="2022-01-17T11:06:57Z">Log10min</Name>
+<DSN TableName="" RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" User="" VarCharsMax="255" TimeCol="" LocalTimeCol="" MSecCol="" ReasonColName="" UserColName="" DurationDays="730" DurationHours="0" DurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="1" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<Variables Record="" Print="" Reset="" Status="" EnableTime=""/>
+</DLRecipe>
+</DLRecipeList>
+</DLAndRecipe>

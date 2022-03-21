@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ProjectSettings>
+<Build>1203</Build>
+<ProjectBuild>1</ProjectBuild>
+<SaveBackup>1</SaveBackup>
+<SaveBackupIncreaseBuild>0</SaveBackupIncreaseBuild>
+<ProjectLift>0</ProjectLift>
+<CryptProject>0</CryptProject>
+<CryptProjectResources>0</CryptProjectResources>
+<UnicodeProject>0</UnicodeProject>
+<ZippedProject>0</ZippedProject>
+<LogStringID>0</LogStringID>
+<CryptStrings>0</CryptStrings>
+<Platforms TargetWin32="1" TargetWinCE="1" TargetWin32Client="0" TargetWinCEClient="0" TargetJ2SEClient="0" TargetJMSEClient="0" DefScreenSizeX="1920" DefScreenSizeY="1080" DefScreenColor="16777215" DefScreenNumColor="0"/>
+<ProjectPaths Alarms="" Data="" Images="" Resources="" Logs="" DataLoggers="" NetworkUserPath="" HelpFilePath=""/>
+<UserAndGroupsSettings EnableAutoLoggoff="1" EnableRuntimeUsers="0" EnableRuntimeUsersSecurity="0" RuntimeUserAccessCode="" RuntimeUserFileName="" AllowRuntimeLevel="5" AllowResizingLevel="1023" EnableNTUserLogin="0" DefaultPrivAdminLevel="1023" DefaultPrivAdminAccessLevel="4294901760" DefaultPrivUserLevel="5" DefaultPrivUserAccessLevel="1048576" DefaultPrivGuestLevel="0" DefaultPrivGuestAccessLevel="0" IncludeChildProjectUsers="0" MaximumChildProjectLevels="5" EnablePasswordProtectedProject="0" EnablePasswordMng="0" SecsAutoLoggoffTimeout="60" MinimumUserLength="4" MinimumPasswordLength="6" SecsWebClientAutoLoggoff="0" EnableCRF21Settings="1" ExecCmdOnLogin="0"/>
+<ChildProjectsList/>
+<ProjectExecution TrackProjectStatistic="1" StartupSynoptic="´°¿Ú1" StartupScript="" ShutdownScript="" StartFullScreen="0" ShowStatusBar="1" ShowTraceBar="0" HideDesktop="0" HideStartButton="0" HideTaskBar="0" HideSystemClock="0" DisableTaskSwitching="0" DisableTaskManager="0" DisableCtrlAltDel="0" ROT="0" ROTAnyClient="0" ServiceSysTray="1" ServiceShowLogon="0" DefaultODBCPlugin="MSAccess" StatObjBack="0" AlphaNumericScreen="" NumericScreen="" GetPasswordScreen="" PasswordExpiredScreen="" TraceCommentScreen="" AckCommentScreen="" ExtCaption="1" ExtBorder="1" ExtResizeable="0" ExtSysMenu="1" EnMouseBuzzer="0" MouseBuzzerDuration="0" ScanAndLoadNotDestroyableScreens="0" StartupCommandsAfterDrivers="0" EnableRenamingMng="1"/>
+<StartupCommands/>
+<ShuttingCommands/>
+<EnableAdminAlert ServerNameAdminAlert="">0</EnableAdminAlert>
+<MouseGestures MouseGestureSpeed="50">0</MouseGestures>
+<HeapManager SetHeapValues="0" DrawRecthHeap="0" DrawAlarmWndhHeap="0" DrawAlarmBannerhHeap="0" DrawHisLogWndhHeap="0" DrawDLWndhHeap="0" DrawTraceDBWndhHeap="0" DrawButtonhHeap="0" DrawCharthHeap="0" DrawPolyhHeap="0" DrawOleObjhHeap="0" DrawOcxObjhHeap="0" DrawGrouphHeap="0" DrawWholeSynObjhHeap="0" DrawTrendObjhHeap="0" DrawGaugeObjhHeap="0" DrawEditBoxObjhHeap="0" DrawTabObjhHeap="0" DrawHourSelectorhHeap="0" DrawListBoxhHeap="0" DrawGridBoxhHeap="0" DrawDynamicHeap="0" VariableHeap="0" AlarmHeap="0" OPCItemObjectsHeap="0" OPCGroupObjectsHeap="0" OPCObjectsHeap="0" DrawScriptHeap="0" AlarmScriptHeap="0"/>
+<HisLogSett RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" MaxCacheBeforeFlush="32767" Dsn="" User="" DefVarCharPrecision="255" TimeCol="" LocTimeCol="" MSecCol="" UserCol="" EventTypeCol="" EventTypeNumCol="" DescriptionCol="" SubEventTypeCol="" CommentCol="" DurationCol="" UniqueIDCol="" TransactionIDCol="" AlarmTable="" DriverTable="" SysTable="" AlarmsDurationDays="180" AlarmsDurationHours="0" AlarmsDurationMinutes="0" DriversDurationDays="180" DriversDurationHours="0" DriversDurationMinutes="0" SystemsDurationDays="180" SystemsDurationHours="0" SystemsDurationMinutes="0" UseInMemoryDB="0" IMDBSharedTable="0" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine="" DefaultSoftLogicOPCServerName="OPC.OUT.PCOS.21" DefaultSoftLogicOPCServerResourceName="TestResource" DefaultSoftLogicVariableGroupName="ÈíÂß¼­">1</HisLogSett>
+<SoftLogicListTagRemoved/>
+<SoftLogicListTagChanged/>
+<RenamedScreens>
+<item key="´°¿Ú1" value="screen2"/>
+</RenamedScreens>
+<RenamedScripts/>
+<RenamedAccelerators/>
+<RenamedMenus/>
+<RenamedEmbReports/>
+<Spooling>
+<Port ReadIntervalTimeout="4294967295" ReadTimeout="10000" WriteTimeout="10000" LinesPerPage="72" MaxBufferLog="100" FromTimet="1999-11-30T00:00:00Z" ToTime="1999-11-30T23:59:59Z"/>
+<EnableAlarmON Escape="16">1</EnableAlarmON>
+<EnableAlarmACK Escape="8">1</EnableAlarmACK>
+<EnableAlarmOFF Escape="64">1</EnableAlarmOFF>
+<EnableDrivers Escape="128">1</EnableDrivers>
+<EnableSystem Escape="0">1</EnableSystem>
+</Spooling>
+<CLSID>{AA00968A-CD95-4F67-8038-90A019C79FE4}</CLSID>
+<UserGroupsList>
+<UserGroup>
+<Name Description="ÏîÄ¿µÄ¿ª·¢ÈËÔ±" DefAccLevel="4294901760" DefLevel="1024" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" ExpiringDaysPassword="0" Language="">¿ª·¢Õß</Name>
+<UsersList/>
+<LogonCommands/>
+<LogoffCommands/>
+</UserGroup>
+<UserGroup>
+<Name Description="ÏîÄ¿µÄ¹ÜÀíÔ±" DefAccLevel="4294901760" DefLevel="1023" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" ExpiringDaysPassword="30" Language="">¹ÜÀíÔ±</Name>
+<UsersList>
+<User>
+<Name Password="" NumericPassword="" Description="¹ÜÀí¼ÆËã»ú(Óò)µÄÄÚÖÃÕÊ»§" ExpDaysPassw="0" AccessLevel="4294901760" Level="4294967295" MobileCountryCode="" MobileAreaCode="" MobilePhoneNumber="" VoiceCountryCode="" VoiceAreaCode="" VoicePhoneNumber="" FaxCountryCode="" FaxAreaCode="" FaxPhoneNumber="" MessengerRecipient="" Email="" AccDisabled="0" CannotBeChanged="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" Language="" TimePassword="2022-01-17T11:06:56Z" MustChangePassword="0" CannotChangePassword="1">Administrator</Name>
+<LogonCommands/>
+<LogoffCommands/>
+</User>
+<User>
+<Name Password="" NumericPassword="" Description="" ExpDaysPassw="0" AccessLevel="4294901760" Level="4294967295" MobileCountryCode="" MobileAreaCode="" MobilePhoneNumber="" VoiceCountryCode="" VoiceAreaCode="" VoicePhoneNumber="" FaxCountryCode="" FaxAreaCode="" FaxPhoneNumber="" MessengerRecipient="" Email="" AccDisabled="0" CannotBeChanged="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" Language="" TimePassword="2022-01-17T11:06:56Z" MustChangePassword="0" CannotChangePassword="1">twhdkx3411</Name>
+<LogonCommands/>
+<LogoffCommands/>
+</User>
+</UsersList>
+<LogonCommands/>
+<LogoffCommands/>
+</UserGroup>
+<UserGroup>
+<Name Description="ÏîÄ¿µÄÒ»°ãÓÃ»§" DefAccLevel="1048576" DefLevel="5" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" ExpiringDaysPassword="30" Language="">ÓÃ»§</Name>
+<UsersList/>
+<LogonCommands/>
+<LogoffCommands/>
+</UserGroup>
+<UserGroup>
+<Name Description="À´¿Í" DefAccLevel="0" DefLevel="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" ExpiringDaysPassword="30" Language="">À´¿Í</Name>
+<UsersList>
+<User>
+<Name Password="" NumericPassword="" Description="ÏµÍ³¹ÜÀíµÄÓÃ»§ÕÊ»§¡£" ExpDaysPassw="0" AccessLevel="4294901760" Level="4294967295" MobileCountryCode="" MobileAreaCode="" MobilePhoneNumber="" VoiceCountryCode="" VoiceAreaCode="" VoicePhoneNumber="" FaxCountryCode="" FaxAreaCode="" FaxPhoneNumber="" MessengerRecipient="" Email="" AccDisabled="0" CannotBeChanged="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" Language="" TimePassword="2022-01-17T11:06:56Z" MustChangePassword="0" CannotChangePassword="1">DefaultAccount</Name>
+<LogonCommands/>
+<LogoffCommands/>
+</User>
+<User>
+<Name Password="" NumericPassword="" Description="¹©À´±ö·ÃÎÊ¼ÆËã»ú»ò·ÃÎÊÓòµÄÄÚÖÃÕÊ»§" ExpDaysPassw="0" AccessLevel="4294901760" Level="4294967295" MobileCountryCode="" MobileAreaCode="" MobilePhoneNumber="" VoiceCountryCode="" VoiceAreaCode="" VoicePhoneNumber="" FaxCountryCode="" FaxAreaCode="" FaxPhoneNumber="" MessengerRecipient="" Email="" AccDisabled="0" CannotBeChanged="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" Language="" TimePassword="2022-01-17T11:06:56Z" MustChangePassword="0" CannotChangePassword="1">Guest</Name>
+<LogonCommands/>
+<LogoffCommands/>
+</User>
+<User>
+<Name Password="" NumericPassword="" Description="ÏµÍ³Îª Windows Defender Ó¦ÓÃ³ÌÐò·À»¤·½°¸¹ÜÀíºÍÊ¹ÓÃµÄÓÃ»§ÕÊ»§¡£" ExpDaysPassw="0" AccessLevel="4294901760" Level="4294967295" MobileCountryCode="" MobileAreaCode="" MobilePhoneNumber="" VoiceCountryCode="" VoiceAreaCode="" VoicePhoneNumber="" FaxCountryCode="" FaxAreaCode="" FaxPhoneNumber="" MessengerRecipient="" Email="" AccDisabled="0" CannotBeChanged="0" WebClientAutoLoggoff="0" LogonScript="" LogoffScript="" SynopticStyleSource="" EnableAutoLogoff="1" AutoLogoffSecsTimeout="60" Language="" TimePassword="2022-01-17T11:06:56Z" MustChangePassword="0" CannotChangePassword="1">WDAGUtilityAccount</Name>
+<LogonCommands/>
+<LogoffCommands/>
+</User>
+</UsersList>
+<LogonCommands/>
+<LogoffCommands/>
+</UserGroup>
+</UserGroupsList>
+</ProjectSettings>

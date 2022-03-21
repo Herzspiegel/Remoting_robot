@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<OPCClientEditor>
+<OPCDAClientData RefreshRateDynamicOPC="1000" TimeoutDynamicOperation="5000" StartupWaitTimeout="30000" PoolOPCClientTest="5" TimeoutOPCClientTest="5000"/>
+<OPCDAList/>
+<OPCAEList/>
+</OPCClientEditor>

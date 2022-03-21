@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<RealTimeDB>
+<AreaData NumInput="32768" NumOutput="32768" NumFlag="32768" UseSharedMemory="0" EnableInUseVarMng="1" EnableTimeStampNotifying="0" UseSharedDynTag="0" UseInputImage="0" UseOutputImage="0" PurgeDynTagTimer="20000" RetWriteDelay="5"/>
+<EnableRetFlags RetFlagFrom="0" RetFlagTo="16384">1</EnableRetFlags>
+<EnableRetInput RetInputFrom="0" RetInputTo="16384">1</EnableRetInput>
+<EnableRetOutput RetOutputFrom="0" RetOutputTo="16384">1</EnableRetOutput>
+<EnableOPCUAServer UAAccessLevel="0">0</EnableOPCUAServer>
+<EnableOPCServer OPCServerName="" OPCServerDescription="VisuPlus OPC Server" EnableOPCServerAE="0" EnableOPCServerDynTag="1" OPCServerDebugEvents="0" OPCServerAutoShutdown="0" OPCServerAutoUnregister="0" OPCServerAutoRegister="0" OPCServerRefreshRate="250" OPCServerShutdownClientsTimeout="5000" OPCServerEnableAEAck="0" OPCServerThreadingMode="1" SINGLE_PATH_SEPARATOR="$" DOUBLE_PATH_SEPARATOR="$$" OPX_PATH_SEPARATOR="~">0</EnableOPCServer>
+<EnableOPXServer Transport="HTTP" Port="9090" AccepterThreads="10" MinThreadPool="5" MaxThreadPool="20" RequestBacklog="5" RequestTimeout="60000" RequestBuffersize="4096" KeepAlive="0" VendorInfo="" EnableSecurity="0" MinAccLevel="0">0</EnableOPXServer>
+<EnableNTSecurityOPCServerTag OPCServerMinImpersonationLevel="0">0</EnableNTSecurityOPCServerTag>
+<szTraceDBSettings RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" Dsn="" User="" TimeCol="" MSecCol="" LocalTimeCol="" UserCol="" ChangerCol="" ValueBeforeCol="" ValueAfterCol="" ValueCol="" QualityCol="" TimeStampCol="" VarNameCol="" VarGroupNameCol="" VarDescriptionCol="" MaxCacheBeforeFlush="32767" DefVarCharPrecision="255" UseInMemoryDB="0" IMDBSharedTable="0" IMDBSaveColumnName="1" IMDBExportXMLTable="0" IMDBExportCSVTable="0" IMDBCryptFile="0" SecWriteBehindDelay="10" MaxRecordsNumber="10000" cIMDBDelimiter="" cIMDBEndOfLine=""/>
+<RealTimeODBCSettings RecycleDBConnection="1" SendAdministrativeAlert="1" MaxError="3" MaxNumberTrans="10" Dsn="" User="" DefVarCharPrecision="255" TableName="" NameCol="" ValueCol="" MinValueCol="" MaxValueCol="" AveValueCol="" TotalTimeCol="" LastTimeOnCol=""/>
+<VariableList>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_GotY</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="0" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_Control</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_GotZ</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_SentX</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_SentY</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="0" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_Confirm</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_SentZ</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="0" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_SentState</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="0" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_GotState</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+<Variable>
+<Name Type="8" AreaType="1" Address="0" Bit="0" Shared="0" Retentive="0">ROS_GotX</Name>
+<EnableTrace DurationDays="730">0</EnableTrace>
+<EnableOPCUAServer>0</EnableOPCUAServer>
+<EnableOPCServer>0</EnableOPCServer>
+<EnableNetworkClient>0</EnableNetworkClient>
+<EnableMapRealTimeToDB>0</EnableMapRealTimeToDB>
+</Variable>
+</VariableList>
+<DriverList/>
+<RenamedVariables/>
+<StructureList/>
+</RealTimeDB>

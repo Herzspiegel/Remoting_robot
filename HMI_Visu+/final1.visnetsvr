@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<NetworkServices>
+<EnableNetwork DefaultUser="" LogUserActivities="0" CleanUserLogFile="30" MaxNetworkUserLogFileLength="1024" MaxNumberConnectedClients="10000" MinuteCleanQuarantineIP="60" NetworkJobProcessingPoolSize="-1" NetworkBeepOnAttack="1" CanBeDebugged="0" NetworkMaxFailsNum="3">1</EnableNetwork>
+<UseLocalTransport MaxTimeout="60000" Inactivity="10000">0</UseLocalTransport>
+<UseTCPTransport Port="12233" Inactivity="10000" MaxTimeout="60000" ThreadPoolSize="-1" ClientThreadLimit="0" Compress="0" Encrypt="0" Sealing="0" MaxMsgSize="102400" SocketAttemptsToConnect="10" SocketAttemptsInterval="1000" BindSourceIP="" OutgoingMaxSpeed="0" IncomingMaxSpeed="0" UseSOCKS="0" SOCKSServer="" SOCKSPort="1080" SOCKSUSer="" SOCKSVer="1" SOCKSAuth="0" SOCKSResAdd="0" AllowRouting="1" StartingIPAddress="0.0.0.0" EndingIPAddress="255.255.255.255">1</UseTCPTransport>
+<UseUDPTransport Port="12533" Compress="0" Encrypt="0" Sealing="0" MaxMsgSize="102400" Inactivity="10000" BindSourceIP="" AllowRouting="1" StartingIPAddress="0.0.0.0" EndingIPAddress="255.255.255.255">0</UseUDPTransport>
+<UseHTTPTransport Port="8888" Inactivity="10000" MaxTimeout="60000" ThreadPoolSize="-1" ClientThreadLimit="0" Compress="0" Encrypt="0" Sealing="0" MaxMsgSize="102400" BindSourceIP="" OutgoingMaxSpeed="0" IncomingMaxSpeed="0" UseSOCKS="0" SOCKSServer="" SOCKSPort="1080" SOCKSUSer="" SOCKSVer="1" SOCKSAuth="0" SOCKSResAdd="0" AllowRouting="1" StartingIPAddress="0.0.0.0" EndingIPAddress="255.255.255.255" SocketAttemptsToConnect="0" SocketAttemptsInterval="1000" ProxyAddress="0.0.0.0" ProxyPort="8080" UseProxy="0">0</UseHTTPTransport>
+<EnableWebsocket WebsocketPort="8088" WebServerPort="8080" StartupScreen="" WebsocketSecure="0">1</EnableWebsocket>
+<BannedIPList/>
+<RoutingTable/>
+</NetworkServices>

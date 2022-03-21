@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<RedudancySettings>
+<Redudancy Type="0" Server="" BackupServer="" TimeOut="2000" Retries="3" StatusVariable="" SwitchServerOnDriverError="0" DriverErrorTimeout="60000" MaxHisCacheHits="100" MaxHisCacheFiles="1000" SyncTimeFreq="24"/>
+</RedudancySettings>

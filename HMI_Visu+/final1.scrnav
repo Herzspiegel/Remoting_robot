@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ScreenNavigation>
+<Style ButtonPos="3" ButtonSize="1" AddBackButton="0" AddBackToStartupButton="0" AssignShortcuts="1" BackButtonTitle="" BackToStartupButtonTitle="" BackButtonMaxHistory="10"/>
+<General ID="0" SizeX="3840" SizeY="2160" MaxClientDocSizeX="0" MaxClientDocSizeY="0" MaxClientPacketSizeX="0" MaxClientPacketSizeY="0" WebClientQuality="100" XBackImage="0" YBackImage="0" CXBackImage="-1" CYBackImage="-1"/>
+<BackGround GradientFill="0" GradientColor="0" BackImageFile="" BkColor="16777215" TileBackground="0"/>
+<Style NonDestroyable="0" GlobalContainerName="0" FitInWindow="0" ShowSynopticBorder="1" StatObjBack="0" KeepAspectRatio="0" EnableScrollBars="1" ShowOnMDITabs="0" SynapsisVisibled="1" UseAntialiasing="1" NumColors="0"/>
+<Execution LayerVariable="" ExecuteSynapse="0" CyclicSynapseExecution="0" SynopticPublicSource="" SynopticStyleSource="" StyleSourceBackColor="0" SynMaxInst="1" EnableMultiTouch="0" EnableZoom="1" FastTimerFreq="50" SlowTimerFreq="500" MaxCounterFast="50" MaxCounterSlow="10" SeparateThread="0" VisibleObjectsManager="0" WaitExpressionsTime="0" ExclusiveWriteAccess="0" TimeDeferClosingWnd="5000"/>
+<ListSynopticDraw/>
+<VariableList/>
+</ScreenNavigation>

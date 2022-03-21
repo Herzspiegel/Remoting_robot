@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<OPCClientEditor>
+<OPCUAClientData StartupWaitTimeout="30000" DiscoveryUrl="opc.tcp://localhost:4840"/>
+<OPCUAList>
+<UAServer>
+<Server Endpoint="opc.tcp://192.168.1.99:4840" ApplUri="" SecMode="0" SecPol="" ReconnectTime="10000" User="" Pwd="" BackupEndpoint="" StatusVariable="" Retries="3">opc.tcp://192.168.1.99:4840-None</Server>
+<NSTable n0="http://opcfoundation.org/UA/" n1="urn:freeopcua:python:server" n2="http://examples.freeopcua.github.io" n3="http://opcfoundation.org/UA/" n4="urn:freeopcua:python:server" n5="http://examples.freeopcua.github.io" n6="http://opcfoundation.org/UA/" n7="urn:freeopcua:python:server" n8="http://examples.freeopcua.github.io" n9="http://opcfoundation.org/UA/" n10="urn:freeopcua:python:server" n11="http://examples.freeopcua.github.io" n12="http://opcfoundation.org/UA/" n13="urn:freeopcua:python:server" n14="http://examples.freeopcua.github.io" n15="http://opcfoundation.org/UA/" n16="urn:freeopcua:python:server" n17="http://examples.freeopcua.github.io" n18="http://opcfoundation.org/UA/" n19="urn:freeopcua:python:server" n20="http://examples.freeopcua.github.io" n21="http://opcfoundation.org/UA/" n22="urn:freeopcua:python:server" n23="http://examples.freeopcua.github.io" n24="http://opcfoundation.org/UA/" n25="urn:freeopcua:python:server" n26="http://examples.freeopcua.github.io" n27="http://opcfoundation.org/UA/" n28="urn:freeopcua:python:server" n29="http://examples.freeopcua.github.io"/>
+<SessionList>
+<Session>
+<Name ConnTO="2000" WatchTO="5000" AutoReconn="1" SamplInt="500" PubInt="1000" SamplIntNotInUse="3000" WatchTime="5000" SessTO="60000" DefNS="">Session one</Name>
+<ItemList>
+<Item>
+<ItemName NodeId="ns=2;i=3" Variable="ROS_Confirm" EnableWrite="1" EnableRead="1">ROS_Confirm</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=2" Variable="ROS_Control" EnableWrite="1" EnableRead="1">ROS_Control</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=11" Variable="ROS_GotState" EnableWrite="1" EnableRead="1">ROS_GotState</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=8" Variable="ROS_GotX" EnableWrite="1" EnableRead="1">ROS_GotX</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=9" Variable="ROS_GotY" EnableWrite="1" EnableRead="1">ROS_GotY</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=10" Variable="ROS_GotZ" EnableWrite="1" EnableRead="1">ROS_GotZ</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=7" Variable="ROS_SentState" EnableWrite="1" EnableRead="1">ROS_SentState</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=4" Variable="ROS_SentX" EnableWrite="1" EnableRead="1">ROS_SentX</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=5" Variable="ROS_SentY" EnableWrite="1" EnableRead="1">ROS_SentY</ItemName>
+</Item>
+<Item>
+<ItemName NodeId="ns=2;i=6" Variable="ROS_SentZ" EnableWrite="1" EnableRead="1">ROS_SentZ</ItemName>
+</Item>
+</ItemList>
+</Session>
+</SessionList>
+</UAServer>
+</OPCUAList>
+</OPCClientEditor>

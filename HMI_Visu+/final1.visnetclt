@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ClientSettings>
+<defClientRules>
+<Settings NetworkClientTimeout="2000" DefaultClientUser="" DefaultPingTime="250" MaxProcessingRetries="3" WaitTimeAfterProcessing="2000" MaxPollVariables="100" NetworkClientPollTime="250" defPriority="0" defProtocol="1" RASStation="" useRAS="0"/>
+</defClientRules>
+<TimeCleanBlackList>60000</TimeCleanBlackList>
+<RASStationList/>
+<ClientRulesList/>
+<AliasServerNames/>
+<OPXClient Pool="-1" PollInUse="2000" PollNotInUse="10000" WriteBehindDelay="2000"/>
+</ClientSettings>
