@@ -1,7 +1,6 @@
 ## Step 1. Set up the project environment
 
-- The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, 
-and the login password is the initial password printed on the PLC.
+- The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, and the login password is the initial password printed on the PLC.
 
   > Account: admin; 
   > Passwd: \*\*\*\*\*\*\*\*
@@ -58,19 +57,35 @@ Make sure **there is only one rosmaster in the LAN** managing topic messages!
 - Before the release of this version of the project, 
   we had taken this project to participate in the 2021 Phoenix China Innovative Application Competition and won the first prize, 
   when we used a PLC control chip to calculate our palm coordinates. 
+
+
+
 - However, due to its lack of computing capability, 
   **the real-time tracking effect** of the robotic arm after the industrial camera collects the data was not as good as we thought 
   (after which **Phoenix launched a dedicated TPU device for calculating images for this defect**, and interested friends can go to [Phoenix's official website](https://www.phoenixcontact.com/online/portal/pc) for more detailed information)
   and the action of the robotic arm had **a high time delay**
 
+
+
 - After that, we considered ignoring the computing capability of the PLC first, 
   and **transferred all the operations on the gesture coordinate points to the cloud server provided by mediaippe**, 
   which got **a good low-latency effect**
 
+
+
 - We used a web program written in **javascript** to replace the original industrial camera's collection of gesture data. 
   In the robotic arm part, we use a relatively simple **python** program for data reception and control of the robotic arm
+
+  ```shell
+  python3 controlRun.py
+  ```
+
+  
 
 - Admittedly, for an industrial network, **the practice of connecting devices to the Internet is extremely dangerous**. 
   But what we want to achieve is how to combine machines with the rapidly developing image recognition technology in the context of **Industry 4.0** to complete some relatively complex work.
 
+
+
 - For more detailed information, please see **README .txt**
+
