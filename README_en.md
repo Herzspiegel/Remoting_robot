@@ -1,6 +1,7 @@
 ## Step 1. Set up the project environment
 
-- The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, and the login password is the initial password printed on the PLC.
+- The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, 
+and the login password is the initial password printed on the PLC.
 
   > Account: admin; 
   > Passwd: \*\*\*\*\*\*\*\*
