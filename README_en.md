@@ -2,7 +2,7 @@
 
 - The initialized PLCNext platform can use the Ethernet port of the PC for **SSH login**, and the login password is the initial password printed on the PLC.
 
-  > Account: admin
+  > Account: admin; 
   > Passwd: \*\*\*\*\*\*\*\*
 
 
