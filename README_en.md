@@ -13,7 +13,7 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
 
 - Yahboom DOFBOT Robotic Arm ([Yahboom DOFBOT AI Vision Robotic Arm with ROS Python programming for R](https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pi))
 
-- Three CAT5E or CAT6 Ethernet network cables
+- Three or four CAT5E or CAT6 Ethernet network cables
 
 - PC，with an RJ45 Ethernet interface and a camera
 
