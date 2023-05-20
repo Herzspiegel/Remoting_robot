@@ -92,7 +92,6 @@ We used the underlying technical framework of PLCNext from Phoenix. Based on thi
   which got **a good low-latency effect**
 
 
-![mediapipe](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
 
 
 
